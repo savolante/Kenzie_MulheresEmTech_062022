@@ -3,11 +3,11 @@
 ## Semana de aulas ao vivo Mulheres em Tech para codar do 0 um projeto profissional.
 
 ### Aulas
-DIA 1 - 06/06: Workshop de LinkedIn & Storytelling Pessoal
-DIA 2 - 07/06: Primeiros passos com HTML
-DIA 3 - 08/06: Primeiros passos com CSS
-DIA 4 - 09/06: Primeiros passos com JavaScript e início do projeto
-DIA 5 - 10/06: Resumão + finalização do projeto
+- DIA 1 - 06/06: Workshop de LinkedIn & Storytelling Pessoal 
+- DIA 2 - 07/06: Primeiros passos com HTML
+- DIA 3 - 08/06: Primeiros passos com CSS
+- DIA 4 - 09/06: Primeiros passos com JavaScript e início do projeto
+- DIA 5 - 10/06: Resumão + finalização do projeto
 
 ### Layout
 - [Layout Mulheres em Tech => Desenvolvendo plataforma de vagas](https://www.figma.com/file/ivCfSG5ElZUqz5KLv2fmhn/Evento----Mulheres-em-Tech?node-id=39%3A135)
